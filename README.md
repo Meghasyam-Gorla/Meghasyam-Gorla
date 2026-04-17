@@ -13,11 +13,6 @@
 
 ---
 
-
-## 🛠️ Languages & Tools I Use
-
----
-
 ## 🛠️ Languages & Tools I Use
 
 | For | I Use |
